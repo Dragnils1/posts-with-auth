@@ -1,0 +1,8 @@
+.authForm {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+  max-width: 33%;
+  margin: auto;
+}
